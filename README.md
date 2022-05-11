@@ -88,3 +88,7 @@ Only communities with more than **100 people** or active are added to the list.
 - [Agile Uzbekistan news](https://t.me/Agile_Uzbekistan)
 
   Agile meetups
+
+- [iTechArt Life💥](https://t.me/itechart_life)
+
+  Все про IT для Remarkable People: стажировки, вакансии, новости, статьи, митапы.
