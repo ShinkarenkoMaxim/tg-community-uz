@@ -19,9 +19,11 @@ Only communities with more than **100 people** or active are added to the list.
 
 - [Tashkent developers](https://t.me/tasdev)
 - [EPAM | RSSchool | Uzbekistan](https://t.me/RSSchoolUzbekistan)
+- [Agile Uzbekistan](https://t.me/AgileUzbekistanCom)
 - [UzDev – Сообщество разработчиков Узбекистана](https://t.me/UzDevUzGroup)
 - [UzGeeks - Oʻqing, oʻrganing!](https://t.me/UzGeeksGroup)
 - [CodeMastersUz Discuss](https://t.me/codemastersuz_discuss)
+- [Самозанятые в Узбекистане](https://t.me/self_employment_uz)
 - [UzBotsGroup](https://t.me/UzBotsGroup)
 
 ### Languages
@@ -64,6 +66,12 @@ Only communities with more than **100 people** or active are added to the list.
   - [Uz Flask Developers](https://t.me/flaskuzb)
 - Java
   - [Spring Framework UZ Discussion](https://t.me/spring_boot_mvc_uz)
+  
+### QA
+- [qauzbekistan](https://t.me/qauzbekistan)
+
+### Game Dev
+- [UZB GameDev Community](https://t.me/uzbgamedev)
 
 ## Channels
 
@@ -74,6 +82,7 @@ Only communities with more than **100 people** or active are added to the list.
 - [Uzbekistan IT Jobs](https://t.me/ITjobs_Uzbekistan)
 - [Ustoz-Shogird](https://t.me/UstozShogird)
 - [IT Вакансии | Ташкент](https://t.me/ITworksUz)
+- [IT MARKET](https://t.me/itmarket_uz)
 
 ### Events
 
@@ -88,7 +97,23 @@ Only communities with more than **100 people** or active are added to the list.
 - [Agile Uzbekistan news](https://t.me/Agile_Uzbekistan)
 
   Agile meetups
+  
+- [IT Park Uzbekistan](https://t.me/itpark_uz)
+  
+  Officially IT Park channel
+  
+- [GDG Tashkent](https://t.me/gdgtashkent)
+  
+  Oficially Google Developer Groups in Tashkent channel
 
 - [iTechArt Life💥](https://t.me/itechart_life)
 
   Все про IT для Remarkable People: стажировки, вакансии, новости, статьи, митапы.
+  
+- [GSAdigital](https://t.me/gsadigital)
+  
+  Что-то про финтех
+  
+- [Релокация в Узбекистан](https://t.me/relocationuz)
+
+  Информация о том как обустроиться и прочие полезные новости для релокантов
