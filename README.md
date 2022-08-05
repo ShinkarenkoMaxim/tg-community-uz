@@ -45,6 +45,8 @@ Only communities with more than **100 people** or active are added to the list.
   - [Swift UZB](https://t.me/swift_uzb)
 - **Java**
   - [Java UZB](https://t.me/Java_UZB)
+- **.Net**
+  - [.NET Talks Uzbekistan](https://t.me/net_talks_uz)
 
 ### Frontend
 
