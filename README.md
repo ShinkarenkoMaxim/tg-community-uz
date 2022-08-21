@@ -25,6 +25,7 @@ Only communities with more than **100 people** or active are added to the list.
 - [CodeMastersUz Discuss](https://t.me/codemastersuz_discuss)
 - [Самозанятые в Узбекистане](https://t.me/self_employment_uz)
 - [UzBotsGroup](https://t.me/UzBotsGroup)
+- [IT Professionals Community Uzbekistan](https://t.me/+XAwLg0G2nH00OWIy) (private chat, link may be broken)
 
 ### Languages
 
