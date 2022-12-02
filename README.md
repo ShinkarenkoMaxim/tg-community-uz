@@ -17,15 +17,19 @@ Only communities with more than **100 people** or active are added to the list.
 
 ### Communities
 
+- [AWS User Group | Tashkent | Chat](https://t.me/AWSUserGroup)
+- [IT Professionals Community Uzbekistan](https://t.me/+XAwLg0G2nH00OWIy) (private chat, link may be broken)
 - [Tashkent developers](https://t.me/tasdev)
-- [EPAM | RSSchool | Uzbekistan](https://t.me/RSSchoolUzbekistan)
 - [Agile Uzbekistan](https://t.me/AgileUzbekistanCom)
+- [EPAM | RSSchool | Uzbekistan](https://t.me/RSSchoolUzbekistan)
+- [Релокейшн - IT](https://t.me/relocationuzit)
 - [UzDev – Сообщество разработчиков Узбекистана](https://t.me/UzDevUzGroup)
 - [UzGeeks - Oʻqing, oʻrganing!](https://t.me/UzGeeksGroup)
+- [Windows & Wine](https://t.me/xinuxuz/180916)
 - [CodeMastersUz Discuss](https://t.me/codemastersuz_discuss)
 - [Самозанятые в Узбекистане](https://t.me/self_employment_uz)
 - [UzBotsGroup](https://t.me/UzBotsGroup)
-- [IT Professionals Community Uzbekistan](https://t.me/+XAwLg0G2nH00OWIy) (private chat, link may be broken)
+
 
 ### Languages
 
