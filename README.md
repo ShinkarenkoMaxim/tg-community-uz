@@ -21,7 +21,7 @@ Only communities with more than **100 people** or active are added to the list.
 - [IT Professionals Community Uzbekistan](https://t.me/+XAwLg0G2nH00OWIy) (private chat, link may be broken)
 - [Tashkent developers](https://t.me/tasdev)
 - [Agile Uzbekistan](https://t.me/AgileUzbekistanCom)
-- [RS Uzbekistan]((https://t.me/rolling_chat_uz)
+- [RS Uzbekistan](https://t.me/rolling_chat_uz)
 - [Релокейшн - IT](https://t.me/relocationuzit)
 - [UzDev – Сообщество разработчиков Узбекистана](https://t.me/UzDevUzGroup)
 - [UzGeeks - Oʻqing, oʻrganing!](https://t.me/UzGeeksGroup)
