@@ -9,6 +9,7 @@ Only communities with more than **100 people** or active are added to the list.
   - [Languages](#languages)
   - [Frontend](#frontend)
   - [Backend](#backend)
+  - [Database](#database)
 - [Channels](#channels)
   - [Jobs](#jobs)
   - [Events](#events)
@@ -74,6 +75,11 @@ Only communities with more than **100 people** or active are added to the list.
   - [Uz Flask Developers](https://t.me/flaskuzb)
 - Java
   - [Spring Framework UZ Discussion](https://t.me/spring_boot_mvc_uz)
+  
+### Database
+- [pgsql_uz](https://t.me/psql_uz)
+- [mongodbuz](https://t.me/mongodbuz)
+- [mysqluz](https://t.me/MySQLuz)
   
 ### QA
 - [qauzbekistan](https://t.me/qauzbekistan)
