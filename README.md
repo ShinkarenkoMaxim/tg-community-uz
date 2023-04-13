@@ -30,7 +30,7 @@ Only communities with more than **100 people** or active are added to the list.
 - [Самозанятые в Узбекистане](https://t.me/self_employment_uz)
 - [UzBotsGroup](https://t.me/UzBotsGroup)
 - [Dev Ops Uzbekistan](https://t.me/devopsuzb)
-
+- [Web3 Weekend Community](https://t.me/web3weekends)
 
 ### Languages
 
