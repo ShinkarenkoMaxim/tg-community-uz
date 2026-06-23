@@ -92,6 +92,7 @@ Only communities with more than **100 people** or active are added to the list.
 - [Ustoz-Shogird](https://t.me/UstozShogird)
 - [IT Вакансии | Ташкент](https://t.me/ITworksUz)
 - [IT MARKET](https://t.me/itmarket_uz)
+- [Работа на Python в Узбекистане](@uzpythonjobs)
 
 ### Events
 
